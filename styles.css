@@ -1,4 +1,11 @@
 *{
 	background-color: lightblue;
 }
+#actor, #quote{
+	margin:20px, 0px;
+	padding:20px;
+	
+	background-color: grey;
+	
+}
 /* Your CSS Code here. */
